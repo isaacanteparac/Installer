@@ -37,3 +37,16 @@ E:\isaac\Projects\Isa+Ant+Cer\C#_project\application_installer\obj\Debug\netcore
 E:\isaac\Projects\Isa+Ant+Cer\C#_project\application_installer\obj\Debug\netcoreapp3.1\C#_project.dll
 E:\isaac\Projects\Isa+Ant+Cer\C#_project\application_installer\obj\Debug\netcoreapp3.1\C#_project.pdb
 E:\isaac\Projects\Isa+Ant+Cer\C#_project\application_installer\obj\Debug\netcoreapp3.1\C#_project.genruntimeconfig.cache
+E:\isaac\Projects\Isa+Ant+Cer\C#_project\Application-Installer\application_installer\bin\Debug\netcoreapp3.1\C#_project.exe
+E:\isaac\Projects\Isa+Ant+Cer\C#_project\Application-Installer\application_installer\bin\Debug\netcoreapp3.1\C#_project.deps.json
+E:\isaac\Projects\Isa+Ant+Cer\C#_project\Application-Installer\application_installer\bin\Debug\netcoreapp3.1\C#_project.runtimeconfig.json
+E:\isaac\Projects\Isa+Ant+Cer\C#_project\Application-Installer\application_installer\bin\Debug\netcoreapp3.1\C#_project.runtimeconfig.dev.json
+E:\isaac\Projects\Isa+Ant+Cer\C#_project\Application-Installer\application_installer\bin\Debug\netcoreapp3.1\C#_project.dll
+E:\isaac\Projects\Isa+Ant+Cer\C#_project\Application-Installer\application_installer\bin\Debug\netcoreapp3.1\C#_project.pdb
+E:\isaac\Projects\Isa+Ant+Cer\C#_project\Application-Installer\application_installer\obj\Debug\netcoreapp3.1\C#_project.csprojAssemblyReference.cache
+E:\isaac\Projects\Isa+Ant+Cer\C#_project\Application-Installer\application_installer\obj\Debug\netcoreapp3.1\C#_project.AssemblyInfoInputs.cache
+E:\isaac\Projects\Isa+Ant+Cer\C#_project\Application-Installer\application_installer\obj\Debug\netcoreapp3.1\C#_project.AssemblyInfo.cs
+E:\isaac\Projects\Isa+Ant+Cer\C#_project\Application-Installer\application_installer\obj\Debug\netcoreapp3.1\C#_project.csproj.CoreCompileInputs.cache
+E:\isaac\Projects\Isa+Ant+Cer\C#_project\Application-Installer\application_installer\obj\Debug\netcoreapp3.1\C#_project.dll
+E:\isaac\Projects\Isa+Ant+Cer\C#_project\Application-Installer\application_installer\obj\Debug\netcoreapp3.1\C#_project.pdb
+E:\isaac\Projects\Isa+Ant+Cer\C#_project\Application-Installer\application_installer\obj\Debug\netcoreapp3.1\C#_project.genruntimeconfig.cache
