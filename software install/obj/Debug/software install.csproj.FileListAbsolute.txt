@@ -1,0 +1,8 @@
+E:\isaac\Projects\Isa+Ant+Cer\Proyectos C#\software install\obj\Debug\software install.csprojResolveAssemblyReference.cache
+E:\isaac\Projects\Isa+Ant+Cer\Proyectos C#\software install\bin\Debug\software install.exe.config
+E:\isaac\Projects\Isa+Ant+Cer\Proyectos C#\software install\bin\Debug\software install.exe
+E:\isaac\Projects\Isa+Ant+Cer\Proyectos C#\software install\bin\Debug\software install.pdb
+E:\isaac\Projects\Isa+Ant+Cer\Proyectos C#\software install\obj\Debug\software install.exe
+E:\isaac\Projects\Isa+Ant+Cer\Proyectos C#\software install\obj\Debug\software install.pdb
+E:\isaac\Projects\Isa+Ant+Cer\Proyectos C#\software install\obj\Debug\software_install.MainForm.resources
+E:\isaac\Projects\Isa+Ant+Cer\Proyectos C#\software install\obj\Debug\software install.csproj.GenerateResource.Cache
