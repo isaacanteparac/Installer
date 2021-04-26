@@ -9,7 +9,8 @@ BOTON INSTALLATION: Se encarga de insatalar los software que se han descargado e
 
 ![image](https://user-images.githubusercontent.com/69361351/116047307-8f275b80-a639-11eb-8d3a-b65239e0bb87.png)
 
-BOTON LIST: Muestra los programas que se estan descargando o instalando, al momento de que diga available al hacer click en el programa o en avalible se podra instalar manualmente.
+BOTON LIST: Muestra los programas que se estan descargando o instalando, al momento de que diga available al hacer click en el 
+programa o en available se podra instalar manualmente.
 
 
 
